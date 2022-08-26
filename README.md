@@ -5,11 +5,11 @@
 
 What am I learning? **Database Experience**
 
-Which software on? **Mongo DB 🍃**
+Which software on? **Mongo DB 🍃  &  MySqL🐬**
 
 By Digital Innovation One - DIO
 
-![dio](https://hermes.digitalinnovation.one/assets/diome/logo.png) 
+![dio](https://hermes.digitalinnovation.one/files/assets/072803c7-7cde-40d1-a37d-d892c2780890.png) 
 
 
  So, if you wanna give a feedback, go ahead!**
