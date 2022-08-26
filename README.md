@@ -1,5 +1,15 @@
-# Desafio de projeto sobre Git/GitHub da DIO
-Repositório criado para o desafio de projeto.
+# Hi, Bootcampers!
 
-## Links úteis
-[Sintaxe básica Markdown](https://www.markdownguide.org/)
+
+**I'm a bootcamp beginner, curious and persistent**
+
+What am I learning? **Database Experience**
+
+Which software on? **Mongo DB 🍃**
+
+By Digital Innovation One - DIO
+
+![dio](https://hermes.digitalinnovation.one/assets/diome/logo.png) 
+
+
+ So, if you wanna give a feedback, go ahead!**
